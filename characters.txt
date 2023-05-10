@@ -1,0 +1,6 @@
+
+abc → aaa
+
+qwerty → bbb
+
+this is a test!
